@@ -2,4 +2,5 @@
 
 - Estado del proyecto: En construcción.
 Para ejecutar:
+
 ```npm install react```
